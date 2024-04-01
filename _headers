@@ -2,3 +2,4 @@
 X-Clacks-Overhead: GNU Terry Pratchett
 Content-Security-Policy: frame-ancestors 'self'
 X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
